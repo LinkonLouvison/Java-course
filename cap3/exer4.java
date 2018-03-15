@@ -1,3 +1,6 @@
+/*
+	 Imprima	os	fatoriais	de	1	a	10.
+    */
 public class exer4{
 
   public static void main(String[] args){

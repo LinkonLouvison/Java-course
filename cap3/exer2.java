@@ -1,3 +1,8 @@
+
+/*
+	 Imprima	a	soma	de	1	até	1000.
+*/
+
 class exer2{
 
 public static void main(String[] args){
