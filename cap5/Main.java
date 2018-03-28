@@ -39,7 +39,7 @@ Conta	c2	=	new	Conta("Danilo");
         } else {
           System.out.println("diferentes");
         }
-        
+
 // mostrando o numero da instancia de cada objeto
         System.out.println("numero da conta c1:\n" +c1.identificador);
         System.out.println("numero da conta c2:\n" +c2.identificador);
